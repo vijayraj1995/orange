@@ -5,3 +5,5 @@
 2.Enter the valid password
 3.enter login button
 4.foget password text
+5.admin page 
+6.dashboard page
