@@ -7,3 +7,5 @@
 4.foget password text
 5.admin page 
 6.dashboard page
+7.leave page
+8.time page
